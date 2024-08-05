@@ -1,4 +1,4 @@
-image: cr.nrtn.dev/sandbox/android-sdk:2024.08.1
+image: cr.nrtn.dev/infra/android-sdk:$INFRA_VERSION
 
 #variables:
 #
